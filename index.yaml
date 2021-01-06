@@ -3,9 +3,9 @@ entries:
   orc8r:
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2021-01-06T10:27:16.856079665Z"
+    created: "2021-01-06T20:13:57.920537067Z"
     description: A Helm chart for magma orchestrator
-    digest: 0ee47fc99172ed5d5e053921ec2c1ed3f5bc6ae2af21ebec8cdee748dd9430d2
+    digest: ef7205fe0fdea05a03938cae7eaab6426886cb9b0e0ab2ee67710bd0c9e50582
     engine: gotpl
     keywords:
     - magma
@@ -16,4 +16,4 @@ entries:
     urls:
     - orc8r-1.4.36.tgz
     version: 1.4.36
-generated: "2021-01-06T10:27:16.852242604Z"
+generated: "2021-01-06T20:13:57.914581173Z"
